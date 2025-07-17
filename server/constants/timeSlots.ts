@@ -1,0 +1,1 @@
+export const MAX_REMAINING = 5; // 最大剩余空位数量
